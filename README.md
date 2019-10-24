@@ -1,7 +1,11 @@
 # Mac-Bootkey
 
 Create an boot usbkey for Windows & for ubuntu/Raspbian/Manjaro For Mac users.
-Bash
+
+## Why create a bash script for that?
+
+Etcher/Unetbootin the most popular software for Boot key does not working when you flash windows Iso on Mac.
+It's an alternative of them on line commands.
 
 
 ## Installation
