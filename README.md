@@ -16,6 +16,6 @@ Download zip with file or copy/cut in sources in a file.sh
 ## Use
 
 ```bash
-sudo bash bootkey.sh
+sudo bash bootkey.sh WINDOWSiso.iso
 ```
 
